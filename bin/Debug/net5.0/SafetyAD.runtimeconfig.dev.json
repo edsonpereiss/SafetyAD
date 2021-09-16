@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ereis\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ereis\\.nuget\\packages"
+    ]
+  }
+}
